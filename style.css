@@ -1,0 +1,52 @@
+
+           body {
+            margin:0;
+            padding:0;
+     }
+header {
+      background-color:black;
+      
+}
+
+header h3 {
+         color:white;
+         text-align:center;
+         padding:.3em;
+}
+
+form {
+  width: 60%;
+  margin: auto;
+}
+
+form input{
+         width:100%;
+         margin-bottom: 1em;
+         padding: .8em;
+}
+
+form input[type=radio] {
+    position: relative;
+    top: -2em;
+} 
+
+
+form input[type=submit] {
+   background-color: purple;
+   color:white;
+   border : none;
+   padding : 1em;
+   cursor: pointer;
+   font-size : .8em;
+}    
+
+
+
+
+
+/* Admin_view  */
+
+#admin_view{
+      margin-bottom: 5em;  
+ 
+}
